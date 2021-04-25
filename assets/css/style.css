@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;        
+}
+
+body {    
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    margin-top: -8px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.forecast {    
+    font-size: 0.9em;
+}
+
+span {
+    font-size: 1em;
+}
+
+.list-group-item {
+    margin-bottom: 10px;
+    border-radius: 8px;
+    background-color: #E9e9e9;
+}
+
+li:hover{
+    background-color: #007bff;
+    color: white;
+}
+
+#weather-box {
+    margin-bottom: 10px;
+}
+
+#forecast-boxes {
+    margin-right: 20px;
+}
